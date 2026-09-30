@@ -99,8 +99,6 @@ a live, interactive dashboard, not a static mockup.
 
 ## What remains (explicitly out of scope for this prototype)
 
-This list is deliberately here so reviewers know exactly what is and
-isn't validated — it is not filler.
 
 1. **Real field data.** Nothing here has been trained or validated on
    actual Oil India production, CSS, SRP/VFD, or failure-history data.
